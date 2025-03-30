@@ -1,0 +1,5 @@
+public enum DogRace {
+    LABRADOR_RETRIEVER,
+    GERMAN_SHEPHERD,
+    GOLDEN_RETRIEVER,
+}
